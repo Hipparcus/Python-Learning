@@ -1,12 +1,14 @@
-## Python Learning
- Todos os exercícios e projetos feitos no início da minha graduação em Astronomia, na UFRJ, quando aprendia **Python**.
+![Python](https://icon-icons.com/icons2/2108/PNG/72/python_icon_130849.png) 
+## Aprendendo Python
+
+ Todos os exercícios e projetos feitos no início da minha graduação, na UFRJ, quando aprendia **Python**.
  Para mais informações: [Veja este tópico que criei com base nesses exercícios.](https://road2tech.forumbrasil.net/t16-materiais-de-computacao-ufrj-python#22)
 
 ____________________________________________________________________
 
 
   * ***Updates:***
-         *Update 06/06/2019*: Lista 2 gabarito número 1-b)
+    *Update 06/06/2019*: Lista 2 gabarito número 1-b)
  ```
       def NomeQualquer(valor,dinheiro):
                quant=dinheiro/valor
