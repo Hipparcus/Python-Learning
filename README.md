@@ -17,7 +17,9 @@ ____________________________________________________________________
                print quant, troco
 ```
 Ou pode-se usar input:"string " para o usuário colocar os valores das variáveis valor e dinheiro. Mas esse tipo de manipulação está mais para frente nos slides.
-        *Update 20/07/2019*: Aula teórica 4 exercícios finais
+        
+   
+   *Update 20/07/2019*: Aula teórica 4 exercícios finais
 ```
   def nome():
      nome=raw_input("Digite seu nome para receber o numero de letras assim como sua primeira letra: ")
